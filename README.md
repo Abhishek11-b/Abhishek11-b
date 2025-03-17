@@ -52,7 +52,7 @@ Connect With Me:
 
 # 📊 GitHub Stats
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=yashu1wwww&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yashu1wwww "Stats")
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=Abhishek11-b&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yashu1wwww "Stats")
 </br> 
 <p align="center">  
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=vue" />
